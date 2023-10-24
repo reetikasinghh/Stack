@@ -1,6 +1,7 @@
 # Stack
 Program Aim:
-The aim of the given code is to provide a simple menu-driven program that allows users to perform operations related to infix-to-postfix expression conversion. It enables users to input infix expressions, convert them to postfix expressions, display the converted expressions, and view the current state of the stack.
+The aim of the given code is to provide a simple menu-driven program that allows users to perform operations related to infix-to-postfix expression conversion. 
+It enables users to input infix expressions, convert them to postfix expressions, display the converted expressions, and view the current state of the stack.
 
 Theory:
 The code defines a program that uses a stack data structure to perform infix-to-postfix conversion on mathematical expressions. The key elements include:
